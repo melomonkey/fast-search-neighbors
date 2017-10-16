@@ -11,7 +11,7 @@ void main()
 	vector<float> val_x, val_y, val_z;
 	vector<int> index;
 
-	int sample_cnt = 50000;
+	int sample_cnt = 500000;
 
 	// X
 	for (int i = 0; i < sample_cnt; ++i)
